@@ -69,7 +69,7 @@ export default function CreateStartup() {
 			}}>
 
 			<input placeholder="Startup name" ref= { value => name = value } className="shadow appearance-none border rounded py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"></input>
-			<input placeholder="Startup website" ref= { value => website = value } className="shadow appearance-none border rounded py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"></input>
+			<input placeholder="Startup website including https or http" ref= { value => website = value } className="shadow appearance-none border rounded py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"></input>
 			<input placeholder="Startup type" ref= { value => type = value } className="shadow appearance-none border rounded py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"></input>
 			<input placeholder="Startup logo URL" ref= { value => img = value } className="shadow appearance-none border rounded py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"></input>
 			<button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" type="submit"> Add Startup </button>
