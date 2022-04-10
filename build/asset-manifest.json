@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/startapp-frontend/static/css/main.fd388169.chunk.css",
+    "main.js": "/startapp-frontend/static/js/main.c055d486.chunk.js",
+    "main.js.map": "/startapp-frontend/static/js/main.c055d486.chunk.js.map",
+    "runtime-main.js": "/startapp-frontend/static/js/runtime-main.55466389.js",
+    "runtime-main.js.map": "/startapp-frontend/static/js/runtime-main.55466389.js.map",
+    "static/css/2.0af451d5.chunk.css": "/startapp-frontend/static/css/2.0af451d5.chunk.css",
+    "static/js/2.03ebd581.chunk.js": "/startapp-frontend/static/js/2.03ebd581.chunk.js",
+    "static/js/2.03ebd581.chunk.js.map": "/startapp-frontend/static/js/2.03ebd581.chunk.js.map",
+    "static/js/3.31f2eaf4.chunk.js": "/startapp-frontend/static/js/3.31f2eaf4.chunk.js",
+    "static/js/3.31f2eaf4.chunk.js.map": "/startapp-frontend/static/js/3.31f2eaf4.chunk.js.map",
+    "index.html": "/startapp-frontend/index.html",
+    "static/css/2.0af451d5.chunk.css.map": "/startapp-frontend/static/css/2.0af451d5.chunk.css.map",
+    "static/css/main.fd388169.chunk.css.map": "/startapp-frontend/static/css/main.fd388169.chunk.css.map",
+    "static/js/2.03ebd581.chunk.js.LICENSE.txt": "/startapp-frontend/static/js/2.03ebd581.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55466389.js",
+    "static/css/2.0af451d5.chunk.css",
+    "static/js/2.03ebd581.chunk.js",
+    "static/css/main.fd388169.chunk.css",
+    "static/js/main.c055d486.chunk.js"
+  ]
+}
