@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.StartupsList {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+
+.bg-sky-500 {
+	background-color: #0ea5e9;
+  }
+  .hover\:bg-sky-700:hover {
+	background-color: #0369a1;
+  }
+
+
+img {
+	width: 400px;
+	height: auto
+}
+
+.byName {
+	display: flex;
+	margin: auto;
+}
+
+ul {
+	line-height: 2.5em;
+}
+
+Navbar {
+    position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+}
