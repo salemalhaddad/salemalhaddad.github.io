@@ -9,7 +9,7 @@ import './index.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 const client = new ApolloClient({
-	uri: "http://www.startapp-api.xyz/graphql",
+	uri: "https://www.startapp-api.xyz/graphql",
 	cache: new InMemoryCache()
 })
 
