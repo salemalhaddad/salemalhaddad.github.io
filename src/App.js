@@ -15,14 +15,14 @@ function App() {
       {/* <StartupList /> */}
 	  <Routes>
 		  <Route path="/" element={<Landing/>}></Route>
-		  <Route path="/list" element={<StartupList/>}></Route>
-		  <Route path="/name" element={<StartupByName/>}></Route>
-		  <Route path="/:name" element={<StartupByName/>}></Route>
-		  <Route path="/name-search" element={<SearchName/>}></Route>
-		  <Route path="/uuid-search" element={<SearchUUID/>}></Route>
-		  <Route path="/create-startup" element={<CreateStartup/>}></Route>
-		  <Route path="/add-position" element={<AddPosition/>}></Route>
-		  <Route path="/add-img" element={<AddImg/>}></Route>
+		  <Route path="list" element={<StartupList/>}></Route>
+		  <Route path="name" element={<StartupByName/>}></Route>
+		  <Route path=":name" element={<StartupByName/>}></Route>
+		  <Route path="name-search" element={<SearchName/>}></Route>
+		  <Route path="uuid-search" element={<SearchUUID/>}></Route>
+		  <Route path="create-startup" element={<CreateStartup/>}></Route>
+		  <Route path="add-position" element={<AddPosition/>}></Route>
+		  <Route path="add-img" element={<AddImg/>}></Route>
 
 	  </Routes>
     </div>
